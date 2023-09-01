@@ -1,0 +1,42 @@
+.main{
+    width: 500px;
+    height: 300px;
+    background-color:black;
+    position: relative;
+}
+.child1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.child2{
+    width: 200px;
+    height: 200px;
+    background-color:yellow;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 200px;
+    margin-top: 50px;
+    opacity: 0.5;
+}
+.child3{
+    color: white;
+    width: 400px;
+    min-height: 20px;
+    text-align: center;
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 10px;
+}
+.reqem{
+    width: 400px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: 230px;
+    padding-left: 20px;
+}
